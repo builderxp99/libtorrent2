@@ -47,7 +47,7 @@ See `libtorrent.org`__ for more detailed build and usage instructions.
 
 .. __: https://libtorrent.org
 
-To build with boost-build, make sure boost and boost-build is installed and run:
+To build with boost-build, make sure boost and boost-build is installed and Run:
 
    b2
 
