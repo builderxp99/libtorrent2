@@ -1,7 +1,6 @@
 name: Linux
 
-on:
-   workflow_dispatch
+on: workflow_dispatch
    push:
       branches: [ RC_1_2 RC_2_0 master ]
    pull_request:
